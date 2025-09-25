@@ -1,7 +1,6 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": "https://stanfordwee.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
