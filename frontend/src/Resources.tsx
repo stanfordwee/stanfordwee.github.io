@@ -24,7 +24,7 @@ const resourceGroups: ResourceGroup[] = [
       },
       {
         name: "WiCS - Women in Computer Science",
-        href: "http://web.stanford.edu/group/wics/",
+        href: "https://stanfordwomenincomputerscience.com/",
       },
       {
         name: "ME Women's Group",
@@ -34,22 +34,22 @@ const resourceGroups: ResourceGroup[] = [
         name: "SWE - Society of Women Engineers",
         href: "http://swe.stanford.edu",
       },
-      {
-        name: "WISE Groups - Women in Science and Engineering Small Groups",
-        href: "https://vpge.stanford.edu/events/programs/wise-and-wissh-groups-women",
-      },
+      // {
+      //   name: "WISE Groups - Women in Science and Engineering Small Groups",
+      //   href: "https://vpge.stanford.edu/events/programs/wise-and-wissh-groups-women",
+      // },
       {
         name: "VMware Women's Leadership Innovation Lab",
         href: "https://womensleadership.stanford.edu",
       },
-      {
-        name: "SPRC Women in Science",
-        href: "https://photonics.stanford.edu/events/women-in-science",
-      },
-      {
-        name: "AWIS - Association for Women in Science",
-        href: "https://awis.org/AWIScollegiaterep",
-      },
+      // {
+      //   name: "SPRC Women in Science",
+      //   href: "https://photonics.stanford.edu/events/women-in-science",
+      // },
+      // {
+      //   name: "AWIS - Association for Women in Science",
+      //   href: "https://awis.org",
+      // },
     ],
   },
   {
@@ -58,15 +58,15 @@ const resourceGroups: ResourceGroup[] = [
     items: [
       {
         name: "WIE - IEEE Women in Engineering",
-        href: "http://www.ieee.org/membership_services/membership/women/index.html",
+        href: "https://wie.ieee.org/",
       },
       {
         name: "WICSE - Women in CS and EE at Berkeley",
-        href: "http://www-inst.eecs.berkeley.edu/~wicse/",
+        href: "https://inst.eecs.berkeley.edu//~wicse/",
       },
       {
         name: "MentorNet",
-        href: "http://www.mentornet.net/",
+        href: "https://greatmindsinstem.org/mentornet/",
       },
       {
         name: "WEPAN - Women Engineering ProActive Network",
@@ -74,11 +74,11 @@ const resourceGroups: ResourceGroup[] = [
       },
       {
         name: "SWE - Society of Women Engineers",
-        href: "http://societyofwomenengineers.swe.org/",
+        href: "https://swe.org/",
       },
       {
         name: "AWIS Palo Alto Chapter",
-        href: "http://pa-awis.weebly.com/",
+        href: "https://awispaloalto.org/",
       },
     ],
   },
@@ -87,12 +87,12 @@ const resourceGroups: ResourceGroup[] = [
     blurb: "Career development, mentoring, and professional growth resources tailored for engineers.",
     items: [
       {
-        name: "BEAM: Stanford Career Education",
-        href: "https://beam.stanford.edu/",
+        name: "Stanford Career Education",
+        href: "https://careered.stanford.edu/",
       },
       {
         name: "Stanford Computer Forum",
-        href: "http://forum.stanford.edu/index.php",
+        href: "https://forum.stanford.edu/",
         description:
           "EECS-focused career fairs, workshops, company info sessions, and more.",
       },
@@ -115,10 +115,10 @@ const resourceGroups: ResourceGroup[] = [
         name: "Additional EE Career Resources",
         href: "https://ee.stanford.edu/student-resources/career-resources",
       },
-      {
-        name: "AfterCollege Job Board",
-        href: "https://www.aftercollege.com/career-networks/stanford-university/women-in-electrical-engineering/",
-      },
+      // {
+      //   name: "AfterCollege Job Board",
+      //   href: "https://www.aftercollege.com/career-networks/stanford-university/women-in-electrical-engineering/",
+      // },
     ],
   },
   {
@@ -138,8 +138,8 @@ const resourceGroups: ResourceGroup[] = [
         href: "https://medium.com/@WomenOfSiliconValley",
       },
       {
-        name: "Wogrammer",
-        href: "http://www.wogrammer.org/",
+        name: "AnitaB.org",
+        href: "https://anitab.org/",
       },
       {
         name: "Miss CEO",
@@ -147,10 +147,10 @@ const resourceGroups: ResourceGroup[] = [
         description:
           "Leadership education, mentorship, and career exploration programs that empower young women.",
       },
-      {
-        name: "Breaking the Glass Ceiling Early On: How to Empower Girls in STEM",
-        href: "https://bootcamp.pe.gatech.edu/blog/how-to-empower-girls-in-stem/",
-      },
+      // {
+      //   name: "Breaking the Glass Ceiling Early On: How to Empower Girls in STEM",
+      //   href: "https://bootcamp.pe.gatech.edu/blog/how-to-empower-girls-in-stem/",
+      // },
     ],
   },
 ];
