@@ -1,0 +1,79 @@
+{
+  "roles": [
+    {
+      "file": "Jasmin Falconer.jpg",
+      "name": "Jasmin Falconer",
+      "position": "President"
+    },
+    {
+      "file": "Nubia Correa.jpg",
+      "name": "Nubia Correa",
+      "position": "Vice President, Social & Advocacy Chair"
+    },
+    {
+      "file": "Katherine Liang.jpg",
+      "name": "Katherine Liang",
+      "position": "Vice President"
+    },
+    {
+      "file": "Heather Chang.jpg",
+      "name": "Heather Chang",
+      "position": "Financial Officer"
+    },
+    {
+      "file": "Sara Azzouz.jpg",
+      "name": "Sara Azzouz",
+      "position": "Outreach Chair"
+    },
+    {
+      "file": "Alice Tor.jpg",
+      "name": "Alice Tor",
+      "position": "Outreach Chair"
+    },
+    {
+      "file": "Hannah Cui.jpg",
+      "name": "Hannah Cui",
+      "position": "Faculty Liaison"
+    },
+    {
+      "file": "Sara Kothari.jpg",
+      "name": "Sara Kothari",
+      "position": "Industry Liaison"
+    },
+    {
+      "file": "Chloe Zhong.jpg",
+      "name": "Chloe Zhong",
+      "position": "Industry Liaison"
+    },
+    {
+      "file": "Eva Wanek.jpg",
+      "name": "Eva Wanek",
+      "position": "Social & Advocacy Chair"
+    },
+    {
+      "file": "Leen Abdul Razzak.jpg",
+      "name": "Leen Abdul Razzak",
+      "position": "Social & Advocacy Chair"
+    },
+    {
+      "file": "Alexis Lee.jpg",
+      "name": "Alexis Lee",
+      "position": "Mentorship Chair"
+    },
+    {
+      "file": "Aytan Sadirova.jpg",
+      "name": "Aytan Sadirova",
+      "position": "Mentorship Chair"
+    },
+    {
+      "file": "Kierra Barr.jpg",
+      "name": "Kierra Barr",
+      "position": "General Support"
+    },
+    {
+      "file": "Sabrina Liu.jpg",
+      "name": "Sabrina Liu",
+      "position": "General Support"
+    }
+  ]
+}
