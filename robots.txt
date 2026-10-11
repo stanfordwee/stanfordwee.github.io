@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://stanfordwee.github.io/sitemap.xml
